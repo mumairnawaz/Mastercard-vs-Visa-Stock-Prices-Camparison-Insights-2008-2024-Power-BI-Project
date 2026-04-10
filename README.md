@@ -52,25 +52,6 @@ The main objective of this project is to:
 
 ---
 
-## 📊 Data Model
-
-<p align="center">
-  <img src="images/Data%20Modeling.png" width="100%">
-</p>
-
-
----
-
-## 📷 Dashboard Preview
-
-
-<p align="center">
-  <img src="images/snap.png" width="100%">
-</p>
-
-
----
-
 ## 📊 Dashboard Features
 - 📈 Closing Price Trends Comparison  
 - 📊 Trading Volume Analysis  
@@ -112,7 +93,7 @@ The main objective of this project is to:
 
 ## 📂 Project Structure
 
-📁 Mastercard-Visa-Stock-Analysis
+Mastercard-Visa-Stock-Analysis/
 │── README.md
 │── BI dashboard/
 │── data/
