@@ -113,8 +113,8 @@ The main objective of this project is to:
 ---
 
 ## 🤝 Connect With Me
-- 🔗 https://www.linkedin.com/in/umair-nawaz-dataanalyst/
-
+- 🔗
+](https://www.linkedin.com/in/mumair-nawaz/)
 ---
 
 ## 📜 License
