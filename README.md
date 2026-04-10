@@ -91,18 +91,6 @@ The main objective of this project is to:
 
 ---
 
-## 📂 Project Structure
-
-Mastercard-Visa-Stock-Analysis/
-│── README.md
-│── BI dashboard/
-│── data/
-│── document/
-│── images/
-
-
----
-
 ## ▶️ How to Use
 1. Clone or download the repository  
 2. Open the `.pbix` file from **BI dashboard**  
